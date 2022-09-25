@@ -2,6 +2,8 @@
 
 React.js 音乐播放器
 
+> [预览地址](https://lyriks-nine.vercel.app/)
+
 ![](https://s2.loli.net/2022/09/25/rKsBhpqMSHTgDFR.png)
 
 ## Technologies 
@@ -23,4 +25,4 @@ React.js 音乐播放器
 * 搜索
 
 ## ToDo
-打包成 Electron macOS dmg
+打包 Electron macOS dmg
